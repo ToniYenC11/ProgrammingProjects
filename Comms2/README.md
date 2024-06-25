@@ -5,7 +5,7 @@ A university project for Digital communications. The project explores Internet o
 <ol>
   <li><code>Final Code</code> - A folder that contains the final code after multiple revision and version. The <code>ESP32WeatherStation_Final_Reigne</code> contains the most updated version of the code.</li>
   <li>
-      `Test files` - Custom arduino code to test and calibrate all sensors.</li>
-  <li>`METHODOLOGY.docx` - A proposed methodology, already included in the final document file.</li>
-  <li>`Weathering the Storm - Comms1 Final Project_Castanares.pdf` - Final document file.</li>
+      <code>Test files</code>- Custom arduino code to test and calibrate all sensors.</li>
+  <li><b>METHODOLOGY.docx</b>- A proposed methodology, already included in the final document file.</li>
+  <li><b>Weathering the Storm - Comms1 Final Project_Castanares.pdf</b> - Final document file.</li>
 </ol> 
